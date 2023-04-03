@@ -1,2 +1,6 @@
 Flask
+<<<<<<< HEAD
 gunicorn
+=======
+gunicorn
+>>>>>>> origin/main
